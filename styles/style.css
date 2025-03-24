@@ -31,6 +31,8 @@ body {
 img {
     display: grid:inline;
     width: 20%;
+    height: 20%;
+    margin: 60px;
 }
 
 .container{
